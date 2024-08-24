@@ -12,7 +12,7 @@ Features:
 
 Installation:
 
-1. Download and install AutoHotkey from [Download Autohotkey v2](https://www.autohotkey.com)
+1. Download and install AutoHotkey v2 from [here](https://www.autohotkey.com)
 2. Clone or download this repository
 3. Run the ModelM-WinKeyFix script
 4. Profit!
